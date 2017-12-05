@@ -1,0 +1,25 @@
+/* This file is for your main application css. */
+@import "bootstrap";
+
+.board-cell {
+	width: 2em;
+	height: 2em;
+	border: 1px solid black;
+}
+
+.selected-cell {
+	background: green;
+}
+
+.bs-table {
+	float: left;
+	border: 2px solid black;
+}
+
+.skinny {
+	width: 20em;
+}
+
+.float-left {
+	float: left;
+}

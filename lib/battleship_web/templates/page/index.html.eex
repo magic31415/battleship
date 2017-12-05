@@ -1,0 +1,23 @@
+<%# From Nat Tuck's Hangman %>
+<div class="mt-5" id="root">
+  <p>Loading...</p>
+</div>
+
+<%#
+if joined:
+  table-id
+  name
+  chat window
+
+  if active_game:
+    game (even if you're not playing)
+  else:
+    challenge someone / being challenged
+
+else :
+  create/join
+
+
+        < div class="mb-5" id="current-table" data-table-id="-1">No table joined</div>
+
+ %>
